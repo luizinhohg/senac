@@ -9,6 +9,8 @@ namespace senac
             Console.WriteLine("Hello World!");
             Console.WriteLine("Teste! 1");
             Console.WriteLine("Teste! 2");
+            Console.WriteLine("Teste! 3");
+
         }
     }
 }
